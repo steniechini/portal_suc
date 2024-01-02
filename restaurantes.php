@@ -34,14 +34,14 @@
                     </section>
                 </div>
                 <div class="col-sm-4 col-m-4 col-12">
-                <img class="img-fluid" src="img/restaurantes1.jpg">
+                <img class="img-fluid" src="img/restaurantes1.webp">
                 </div>
        </div>
     
     
        <div class="row">
                         <div class="col-sm-4 col-m-4 col-12">
-                            <img class="img-fluid" src="img/restaurantes4.jpg">
+                            <img class="img-fluid" src="img/restaurantes4.webp">
                         </div>
                     <div class="col-sm-7 col-m-7 col-12">
                  <section class="sectionrestaurantes">
@@ -65,7 +65,7 @@
                     </section>
                 </div>
                 <div class="col-sm-6 col-m-6 col-12">
-                <img class="img-fluid" src="img/restaurantes2.jpg">
+                <img class="img-fluid" src="img/restaurantes2.webp">
                 </div>
                 
       </div>
@@ -73,7 +73,7 @@
       <div class="row">
 
                         <div class="col-sm-4 col-m-4 col-12">
-                            <img class="img-fluid" src="img/restaurantes3.jpg">
+                            <img class="img-fluid" src="img/restaurantes.webp">
                         </div>
 
                     <div class="col-sm-7 col-m-7 col-12">

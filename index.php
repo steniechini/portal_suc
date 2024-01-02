@@ -42,17 +42,17 @@
                 <div class="col-sm-2 col-md-2 col-12  indeximg">
 
                         <aside> 
-                            <img  src="img/home1.jpg" alt="cacho de uvas verdes">
+                            <img  src="img/home1.webp" alt="cacho de uvas verdes">
                             
                            
 
                         </aside>
                         <section>
-                        <img   src="img/home2.jpg" alt="mãos com taças de vinho fazendo um brinde">
+                        <img   src="img/home2.webp" alt="mãos com taças de vinho fazendo um brinde">
 
                         </section>
                         <section class="sectionindex">   
-                        <img   src="img/home3.jpg" alt="ingredientes para pratos tipicos italitanos, com macarrão cru, tomates ovos, verduras">
+                        <img   src="img/home3.webp" alt="ingredientes para pratos tipicos italitanos, com macarrão cru, tomates ovos, verduras">
                         </section>
                 </div>
       

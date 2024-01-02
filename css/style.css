@@ -127,3 +127,121 @@ body {
         
         
       }
+      /*----------------------------sobre nós-------------------------*/
+      .sobrenos h3{
+        font-size: small;
+      }
+      .sobrenos h1{
+        font-size: 3em;
+      }
+      .sobrenos p{
+        padding: 0.7em;
+        padding-bottom: 0.3em;
+        padding-top: 0.1em;
+      }
+      .sobrenos section{
+        border-radius: 50px 10px;
+        margin-bottom: 0.5em;
+        
+
+        }
+      
+      .jenny{
+        background-color: #EF9C78;
+      }
+      .lucas{
+        background-color: #EEB45E;
+      }
+      .ste{
+        background-color: #C3E75F;
+      }
+      .thami{
+        background-color: #B9DCEF;
+      }
+      .vinicius{
+        background-color: #DAB6E3;
+      }
+      .jenny img{
+        border-radius: 50%;
+        margin-bottom: 0.5em;
+        margin-top: 1em;
+    
+        
+      }
+
+      .lucas img{
+        border-radius: 50%;
+        margin-bottom: 0.5em;
+        margin-top: 1em;
+    
+        
+      }
+      .ste img{
+        
+          border-radius: 50%;
+          margin-bottom: 0.5em;
+          margin-top: 0.5em;
+      
+                 
+      }
+    .thami img{
+        border-radius: 50%;
+        margin-bottom: 0.5em;
+        margin-top: 1em;
+    
+        
+      }
+      .vinicius img{
+        border-radius: 50%;
+        margin-bottom: 0.5em;
+        margin-top: 1em;
+    
+        
+      }
+      /*------ culinária italiana-------*/
+      .italiana{
+        background-color: #ffffff;
+      }
+      .italiana section{
+        padding: 1em;
+        
+      }
+      .italiana article{
+        padding-top: 1em;
+       
+      }
+      .italiana section img{
+        border-radius: 50px 10px;
+        margin-bottom: 0.5em;
+        padding-right: -1em;
+      }
+      .italiana p{
+        font-size: 1.2em;
+      }
+      .italiana h1{
+        font-size: 4em;
+        color: #26753a;
+      }
+      /*-------culinária portuguesa----------*/
+      .portuguesa section{
+        padding: 1em;
+        
+      }
+      .portuguesa article{
+        padding-top: 1em;
+       
+      }
+      
+      .portuguesa p{
+        font-size: 1.2em;
+      }
+      .portuguesa h1{
+        font-size: 4em;
+        color: #752626;
+        text-align: left;
+      }
+      .portuguesa section img{
+        border-radius: 50px 10px;
+        margin-bottom: 0.5em;
+        padding-right: -1em;
+      }
