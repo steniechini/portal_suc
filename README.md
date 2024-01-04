@@ -40,7 +40,7 @@ Este é um portal contendo informações dos principais restaurantes do roteiro.
 - **Italiana, Portuguesa:** Páginas destinadas à cultura gastronômca de alguns restaurantes presentes no portal.
 - **Restaurantes:** Um guia sobre os restaurantes disponíveis.
 - **Sobre Nos:** Página contendo informações dos desenvolvedores.
-- **Termos de Uso:**Página contendo as normas de uso.
+- **Termos de Uso:** Página contendo as normas de uso.
 
 
 
