@@ -132,7 +132,7 @@ body {
         font-size: small;
       }
       .sobrenos h1{
-        font-size: 3em;
+        font-size: 4em;
       }
       .sobrenos p{
         padding: 0.7em;
@@ -165,6 +165,13 @@ body {
         border-radius: 50%;
         margin-bottom: 0.5em;
         margin-top: 1em;
+    
+        
+      }
+      .uni img{
+        
+        margin-bottom: 0.5em;
+        margin-top: 2em;
     
         
       }

@@ -19,7 +19,7 @@
         <div class='row'>
             <div class='col-12'>
                 <section class="text-center" >
-                    <img src='img/uni.webp' alt="cabeça de um unicórnio colorido, logomarca do grupo">
+                    
                     <h1 >Sobre nós</h1>
                     <p>Selvagens Unicórnios Coloridos</p>
                 
@@ -29,10 +29,24 @@
             </div>
         </div>
     </div>
-    <div class='container align-items-center'> 
+    
+     <div class='container'>
         <div class='row'>
-            <div class='col-12'>
-                <section class='jenny'>
+            
+            <div class='col-sm-6 col-12'>
+                <section class='uni'>
+                <div style="display: flex;width: 100%;justify-content: center;">
+                <img src='img/uni.webp' alt="cabeça de um unicórnio colorido, logomarca do grupo">
+                </div>
+                
+                
+                
+
+                </section>
+                
+            </div>
+            <div class='col-sm-6 col-12'>
+            <section class='jenny'>
                 <div style="display: flex;width: 100%;justify-content: center;">
                 <img src='img/jenny.webp'  class="img-fluid" alt='Jennyfer, mulher branca com cabelos vermelhos '>
                 </div>
