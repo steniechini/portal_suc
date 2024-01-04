@@ -29,13 +29,12 @@ Este é um portal contendo informações dos principais restaurantes do roteiro.
  Você entrará na Home do Projeto.
 
 ## 💻Conteúdo do Projeto
-## ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+## ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
   
 - **index.html:** Página Inicial do Portal.
 - **CSS:** Arquivo CSS para estilos e formatação. Nomeada de "style.css" localizada na pasta CSS.
 - **Imagens** Localizadas na pasta "img".
-- **Javascript:** Possuindo as interações e funcionalidades do projeto, conteúdo Javascript se encontra dentro de uma pasta nomeada "script".
 - **Footer e Header:** Arquivos contendo o HTML respectivamente Footer.php e Header.php.
 - **Italiana, Portuguesa:** Páginas destinadas à cultura gastronômca de alguns restaurantes presentes no portal.
 - **Restaurantes:** Um guia sobre os restaurantes disponíveis.
