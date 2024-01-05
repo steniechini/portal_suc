@@ -13,7 +13,6 @@ body {
     margin-bottom: 3em;
     font-family:'kaisei tokumin', serif ;
     font-size: large;
-    
   }
   .articleindex{
     margin-bottom: 4em;
@@ -39,6 +38,8 @@ body {
   .indeximg img{
     margin-bottom: 2em;
   }
+  
+
   nav ul li a:hover {
     color: #ffffff;
   
@@ -49,12 +50,12 @@ body {
   .navbar-light .navbar-nav .nav-link{
   color: #ffffff;
   font-family:'kaisei tokumin', serif ;
-  
+  background-color: rgba(212, 120, 37, 0.9);
   text-transform: uppercase;
- 
-
+  padding: 12px;
  
   }
+
   .nav-item a:hover {
     color: #777777;
     font-family:'kaisei tokumin', serif ;
