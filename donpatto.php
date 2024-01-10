@@ -15,8 +15,37 @@
 </head>
 
 <body>
-<?php include("header.php") ?>
-<?php include("footer.php") ?>
+    <?php include("header.php") ?>
+    <main id="main-donpatto">
+        <section>
+            <header class="header-donpatto">
+                <h1 class="titulo-donpatto">Vila Don Patto</h1>
+                <hr/>
+                <h2 class="subtitulo-donpatto">Conheça mais sobre o restaurante Vila Don Patto, localizado na rota do vinho em São Roque.</h2>
+            </header>
+            <aside> <!--aside de imagens-->
+            <figure><img src="img/donpatto1.webp"/></figure>
+            <figure><img src="img/donpatto2.webp"/></figure>
+            <figure><img src="img/donpatto3.webp"/></figure>
+            <figure><img src="img/donpatto4.webp"/></figure>
+            <figure><img src="img/donpatto5.webp"/></figure>
+            <figure><img src="img/donpatto6.webp"/></figure>
+            </aside>
+        </section>
+        <section id="section-button">
+            <button>
+                <img src="img/arrow.webp"/>
+            </button>
+        </section>
+        <section>
+            <header>
+                <span>cardápio</span>
+                <h2>CONHEÇA MAIS SOBRE O VILA DON PATTO</h2>
+                <p>Dê uma olhada nos pratos mais amados!</p>
+            </header>
+        </section>
+    </main>
+    <?php include("footer.php") ?>
 </body>
 
 </html>
