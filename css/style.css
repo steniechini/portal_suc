@@ -98,6 +98,10 @@ body {
         color: #777777;
       }
 
+  
+      .custom-heading {
+        color: #752626;
+    }
       /*---------------------Restaurantes----------------------------------*/
 
       .restaurantes h1{
@@ -258,9 +262,9 @@ body {
         padding-right: -1em;
       }
 
+
       /*Contato*/
       
-
     .container {
       margin-top: 0;
   }
@@ -268,14 +272,13 @@ body {
   .h1_contato{
     margin-top: 1em;
     margin-left: 5em;
-    font-size: 4em;
+    font-size: 3.5em;
     color: #752626;
    align-items: center;
   }
   
 
   .section_contato{
-   
     padding: 0.6em;
     margin: 0.5em;
  

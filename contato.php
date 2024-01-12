@@ -1,5 +1,3 @@
-<?php include("configurar_erros.php"); ?>
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -22,14 +20,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h1 class="h1_contato">Contato</h1>
+                    <h1 class="h1_contato">Contato</h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-7 col-m-7 col-12">
                         <section class="section_contato">
-                        <form action=acessarformulario.php" method="POST" class="form">
+                         <form action="https://api.web3forms.com/submit" method="POST" class="form">
                                 <div class="form-group">
+                                <input type="hidden" name="access_key" value="86c70bd8-2e9c-4957-b018-5152d86abfb8">
                                     <label for="nome">Nome:</label>
                                     <input type="text" class="form-control" id="nome" name="nome"
                                         placeholder="Digite seu nome">
@@ -46,6 +45,12 @@
                                     <textarea class="form-control" id="mensagem" name="mensagem" rows="4"
                                         placeholder="Digite sua mensagem"></textarea>
                                 </div>
+
+					   <div class="form-check">
+                                     <input type="checkbox" class="form-check-input" id="concordo" required>
+                                         <label class="form-check" for="concordo">Eu concordo com os Termos de Uso</label>
+                                         <a class="link-termos" href="termosdeuso.php">Termos de Uso</a>
+                                        </div>
 
                                 <button type="submit" class="btn btn-enviar">Enviar</button>
                             </form>
