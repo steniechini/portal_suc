@@ -76,6 +76,6 @@ b.
 
 ## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE).
+Todos os direitos reservados.
 
 ---
