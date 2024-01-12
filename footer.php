@@ -1,17 +1,27 @@
 
-        <div class="row">
-                <div class="col-12">
-                <footer>
-                     
-        <ul>
-                <li><a href="https://twitter.com" target="_blank"><img src="img/logotwitter.webp" alt="logo twitter"></a></li>
-                <li><a href="https://facebook.com" target="_blank"><img src="img/logofacebook.webp" alt="logo facebook"></a></li>
-                <li><a href="https://instagram.com" target="_blank"><img src="img/logoinstagram.webp" alt="logo instagram"></a></li>
-                <li><a href="https://instagram.com" target="_blank"><img src="img/logoinstagram.webp" alt="logo instagram"></a></li>
-                <li><a class="nav-link" href="#header">Voltar ao topo.</a></li>
-            </ul>
+<footer>
 
-            
-    </footer>
-                </div>
+        <div class="caixa">       
+           
+        <ul class="footer-ul">
+
+                <li><a href="https://twitter.com" target="_blank"><i class="fa-brands fa-4x  fa-twitter"></i></a></li>
+
+                <li><a href="https://facebook.com" target="_blank"><i class="fa-brands fa-4x   fa-facebook"></i></a></li>
+
+                <li><a href="https://instagram.com" target="_blank"><i class="fa-brands fa-4x fa-instagram"></i></a></li>   
+
+                <li><a href="https://instagram.com" target="_blank"><i class="fa-brands fa-4x  fa-github"></i></a></li>   
+                
+
+            </ul>
+ 
+            <ul class="footer-ul-ul">
+        <li><a class="nav-link" href="#header">Voltar ao topo.</a></li>
+        </ul>
+
         </div>
+        
+        <script src="https://kit.fontawesome.com/b941d4e4ba.js" crossorigin="anonymous"></script>
+
+</footer>
