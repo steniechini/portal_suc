@@ -1,0 +1,141 @@
+:root{
+    --bg-color:black;
+    --red-d0:#d00048 ;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header-goes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: burlywood;
+    height:60vh;
+    background-repeat: no-repeat;
+}
+
+.side-img{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+
+/* contente */
+
+.contente-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 50px;
+    gap: 40px;
+}
+.h3-content{
+    color:#d00048 ;
+    font-family: cursive;
+}
+.h1-content{
+    font-weight: bold;
+}
+.contente{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+.bandi{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 20px;
+
+}
+.hgroup-content{
+    margin-bottom: 100px;
+}
+.img-bandi{
+    border-radius: 50%;
+}
+.h3-bandi{
+    font-family: cursive;
+    font-weight: bold;
+}
+.h3-bandi:hover{
+    color: #d00048;
+    cursor: pointer;
+    /* user-select: none;  */
+}
+.p-bandi{
+    max-width: 900px;
+}
+.button-bandi{
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+
+}
+
+/*safra  */
+
+.safra{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 0px 50px;
+}
+
+
+/* sacando */
+
+.sacando{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.article-safra{
+    max-width: 800px;
+}
+
+/* nova-linha */
+
+.nova-linha{
+    display: flex;
+}
+
+
+
+
+/* gridando */
+
+.gridando{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    margin: 100px 20px;
+}
+.vinhos{
+    text-align: center;
+}
+
+.article-d{
+    margin: 200px;
+}
