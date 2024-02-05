@@ -80,7 +80,7 @@
                         <section class="sectionrestaurantes">
                         <h2>Quinta do Olivardo</h2>
                         <p>Nasceu como um misto de restaurante e adega em São Roque, cidade próxima à capital conhecida pela produção de vinhos. No menu de linha clássica podem ser apreciados pratos tradicionais portugueses.
-                        <a href='olivardo.php'>Saiba mais...</a>
+                        <a href='quinta.php'>Saiba mais...</a>
                         </p>
                         </section>
                 </div>
