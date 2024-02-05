@@ -9,10 +9,10 @@ body {
     }
   header{
     background-color: #D47825;
-    height: 4.5em;
+    
   
     font-family:'kaisei tokumin', serif ;
-    font-size: large;
+    
   }
   .articleindex{
     margin-bottom: 4em;
@@ -53,6 +53,7 @@ body {
   background-color: rgba(212, 120, 37, 0.9);
   text-transform: uppercase;
   padding: 12px;
+  font-size: medium;
  
   }
 
@@ -280,7 +281,7 @@ body {
         margin-bottom: 0.5em;
         padding-right: -1em;
       }
-
+    
 
       /*Contato*/
       
@@ -318,3 +319,20 @@ body {
       color: #fff;
   }
 
+/*quinta do olivardo*/
+.quinta p{
+  font-size: 1.3em;
+}
+.quintaimg img{
+  border-radius: 50px 50px;
+}
+
+.quinta section {
+  padding: 1em;
+}
+.quinta h1{
+  margin-top: 1.5em;
+        font-size: 4em;
+        color: #752626;
+        text-align: left;
+}
