@@ -52,7 +52,7 @@
                 </div>
                 
                     <h2 class="text-center">Jennyfer Alvim</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA:2650832223023</h3>
                 
                 <p>Nasci em São Roque em 1999, em transição de carreira, tenho amor incondicional por gatos e animações japonesas dos anos 80. Responsável por testes, Mockup, HTML e CSS das páginas Contato e termos de uso HTML e CSS da página Contato e edição das imagens dessas páginas feitas no CorelDRAW.</p>
 
@@ -106,7 +106,7 @@
                 </div>
                 
                     <h2 class="text-center">Thamiris Nishimori</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA: 2650832223009</h3>
                     <p>Tenho 19 anos já tem muito tempo. Gosto muito de falar, acho graça de tudo e ainda amo a One Direction.</p>
                      <p>Responsável pelo Mockup, HTML e CSS da página Don Patto. Também responsável pela gerência do grupo.</p>
                 
@@ -121,7 +121,7 @@
                 </div>
                 
                     <h2 class="text-center">Vinicius Bernal</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA:2650832223005</h3>
                     <p> Tenho 21 anos, curso Sistemas para Internet. Amo tocar instrumentos musicais e sou apaixonado por motos.</p>
                         <p> Responsável pelo Mockup, HTML e CSS das páginas Cantina Tia Lina  .</p>
                 
