@@ -2,273 +2,367 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Newsreader:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Kaisei+Tokumin:wght@400;500;700;800&family=Monomaniac+One&family=Outfit:wght@300;800&display=swap');
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-    overflow-x: hidden;
-    font-family: 'kaisei tokumin', serif ;
+  overflow-x: hidden;
+  font-family: 'kaisei tokumin', serif;
 
-    }
-  header{
-    background-color: #D47825;
-    height: 4.5em;
-    margin-bottom: 3em;
-    font-family:'kaisei tokumin', serif ;
-    font-size: large;
-  }
-  .articleindex{
-    margin-bottom: 4em;
-  }
-  
-  p {
-    font-family: 'Newsreader', serif;
-    font-size: large;
-  }
-  .articleindex p {
-    font-size: 1.5em;
-  }
-  .index h1{
-    font-family:'kaisei tokumin', serif ;
-    font-size: 5.5em;
-    margin-bottom: 0.5em;
-    
+}
 
-  }
-  .sectionindex {
-    margin-bottom: 4em;
-  }
-  .indeximg img{
-    margin-bottom: 2em;
-  }
-  
+header {
+  background-color: #D47825;
+  height: 4.5em;
+  margin-bottom: 3em;
+  font-family: 'kaisei tokumin', serif;
+  font-size: large;
+}
 
-  nav ul li a:hover {
-    color: #ffffff;
-  
-  
-  }
+.articleindex {
+  margin-bottom: 4em;
+}
+
+p {
+  font-family: 'Newsreader', serif;
+  font-size: large;
+}
+
+.articleindex p {
+  font-size: 1.5em;
+}
+
+.index h1 {
+  font-family: 'kaisei tokumin', serif;
+  font-size: 5.5em;
+  margin-bottom: 0.5em;
 
 
-  .navbar-light .navbar-nav .nav-link{
+}
+
+.sectionindex {
+  margin-bottom: 4em;
+}
+
+.indeximg img {
+  margin-bottom: 2em;
+}
+
+
+nav ul li a:hover {
   color: #ffffff;
-  font-family:'kaisei tokumin', serif ;
+
+
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff;
+  font-family: 'kaisei tokumin', serif;
   background-color: rgba(212, 120, 37, 0.9);
   text-transform: uppercase;
   padding: 12px;
- 
-  }
 
-  .nav-item a:hover {
-    color: #777777;
-    font-family:'kaisei tokumin', serif ;
-    
-    }
-  
-    .navbar-light .navbar-nav .nav-link.active {
-        color: #ffffff;
-    }
-    nav {
-        text-align: left;
-        display: inline;
-      }
+}
 
+.nav-item a:hover {
+  color: #777777;
+  font-family: 'kaisei tokumin', serif;
 
-      /* Footer */
+}
 
-      footer{  
-        margin-top: 20px;
-        /* margin-top: 100%; - Caso queria o footer sempre no fundo da pagina , daria pra fazer de outros jeitos , mas ai teria que mexer na estrutura do codigo */
-        background-color:#DFA329;
-        padding-top: 25px;
-        padding-bottom: 10px;
-      
-      }
-      .footer-ul{
-        list-style: none;
-        display: flex;
-        gap: 20px;
-      }
-      .caixa{
-        display: flex;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-start;
-        gap: 5rem;
-      }
-      .footer-ul-ul{
-        list-style: none;
-        font-weight: bold;
-      
-      }
-      i{
-        color: black;
-      }
+.navbar-light .navbar-nav .nav-link.active {
+  color: #ffffff;
+}
+
+nav {
+  text-align: left;
+  display: inline;
+}
 
 
+/* Footer */
 
-      /* Fim - Footer */
-    
-    
-    
-      .nav-link {
-        padding-top: -1em;
-        color: #ffffff;
-        font-size: large;
-      }
-     .nav-link a:hover{
-        color: #777777;
-      }
+footer {
+  margin-top: 20px;
+  /* margin-top: 100%; - Caso queria o footer sempre no fundo da pagina , daria pra fazer de outros jeitos , mas ai teria que mexer na estrutura do codigo */
+  background-color: #DFA329;
+  padding-top: 25px;
+  padding-bottom: 10px;
 
-      /*---------------------Restaurantes----------------------------------*/
+}
 
-      .restaurantes h1{
-        font-size: 4.5em;
-        text-align: center;
-        margin-bottom: 1em;
-      }
+.footer-ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
 
-      .sectionrestaurantes{
-        background-color: #F9DC5C;
-        border-radius: 30px 10px;
-        padding: 0.6em;
-        margin: 0.5em;
-        
-      }
-      .sectionrestaurantes h2{
-        padding-left: 0.7em;
-      }
-      .sectionrestaurantes p{
-        padding-left: 0.6em;
-      }
-    
-    
-      .restaurantes img{
-        border-radius: 50px 10px;
-        margin-bottom: 0.5em;
-        padding-right: -1em;
-        
-        
-      }
-      /*----------------------------sobre nós-------------------------*/
-      .sobrenos h3{
-        font-size: small;
-      }
-      .sobrenos h1{
-        font-size: 4em;
-      }
-      .sobrenos p{
-        padding: 0.7em;
-        padding-bottom: 0.3em;
-        padding-top: 0.1em;
-      }
-      .sobrenos section{
-        border-radius: 50px 10px;
-        margin-bottom: 0.5em;
-        
+.caixa {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-start;
+  gap: 5rem;
+}
 
-        }
-      
-      .jenny{
-        background-color: #EF9C78;
-      }
-      .lucas{
-        background-color: #EEB45E;
-      }
-      .ste{
-        background-color: #C3E75F;
-      }
-      .thami{
-        background-color: #B9DCEF;
-      }
-      .vinicius{
-        background-color: #DAB6E3;
-      }
-      .jenny img{
-        border-radius: 50%;
-        margin-bottom: 0.5em;
-        margin-top: 1em;
-    
-        
-      }
-      .uni img{
-        
-        margin-bottom: 0.5em;
-        margin-top: 2em;
-    
-        
-      }
+.footer-ul-ul {
+  list-style: none;
+  font-weight: bold;
 
-      .lucas img{
-        border-radius: 50%;
-        margin-bottom: 0.5em;
-        margin-top: 1em;
-    
-        
-      }
-      .ste img{
-        
-          border-radius: 50%;
-          margin-bottom: 0.5em;
-          margin-top: 0.5em;
-      
-                 
-      }
-    .thami img{
-        border-radius: 50%;
-        margin-bottom: 0.5em;
-        margin-top: 1em;
-    
-        
-      }
-      .vinicius img{
-        border-radius: 50%;
-        margin-bottom: 0.5em;
-        margin-top: 1em;
-    
-        
-      }
-      /*------ culinária italiana-------*/
-      .italiana{
-        background-color: #ffffff;
-      }
-      .italiana section{
-        padding: 1em;
-        
-      }
-      .italiana article{
-        padding-top: 1em;
-       
-      }
-      .italiana section img{
-        border-radius: 50px 10px;
-        margin-bottom: 0.5em;
-        padding-right: -1em;
-      }
-      .italiana p{
-        font-size: 1.2em;
-      }
-      .italiana h1{
-        font-size: 4em;
-        color: #26753a;
-      }
-      /*-------culinária portuguesa----------*/
-      .portuguesa section{
-        padding: 1em;
-        
-      }
-      .portuguesa article{
-        padding-top: 1em;
-       
-      }
-      
-      .portuguesa p{
-        font-size: 1.2em;
-      }
-      .portuguesa h1{
-        font-size: 4em;
-        color: #752626;
-        text-align: left;
-      }
-      .portuguesa section img{
-        border-radius: 50px 10px;
-        margin-bottom: 0.5em;
-        padding-right: -1em;
-      }
+}
+
+i {
+  color: black;
+}
+
+
+
+/* Fim - Footer */
+
+
+
+.nav-link {
+  padding-top: -1em;
+  color: #ffffff;
+  font-size: large;
+}
+
+.nav-link a:hover {
+  color: #777777;
+}
+
+/*---------------------Restaurantes----------------------------------*/
+
+.restaurantes h1 {
+  font-size: 4.5em;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.sectionrestaurantes {
+  background-color: #F9DC5C;
+  border-radius: 30px 10px;
+  padding: 0.6em;
+  margin: 0.5em;
+
+}
+
+.sectionrestaurantes h2 {
+  padding-left: 0.7em;
+}
+
+.sectionrestaurantes p {
+  padding-left: 0.6em;
+}
+
+
+.restaurantes img {
+  border-radius: 50px 10px;
+  margin-bottom: 0.5em;
+  padding-right: -1em;
+
+
+}
+
+/*----------------------------sobre nós-------------------------*/
+.sobrenos h3 {
+  font-size: small;
+}
+
+.sobrenos h1 {
+  font-size: 4em;
+}
+
+.sobrenos p {
+  padding: 0.7em;
+  padding-bottom: 0.3em;
+  padding-top: 0.1em;
+}
+
+.sobrenos section {
+  border-radius: 50px 10px;
+  margin-bottom: 0.5em;
+
+
+}
+
+.jenny {
+  background-color: #EF9C78;
+}
+
+.lucas {
+  background-color: #EEB45E;
+}
+
+.ste {
+  background-color: #C3E75F;
+}
+
+.thami {
+  background-color: #B9DCEF;
+}
+
+.vinicius {
+  background-color: #DAB6E3;
+}
+
+.jenny img {
+  border-radius: 50%;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+
+
+}
+
+.uni img {
+
+  margin-bottom: 0.5em;
+  margin-top: 2em;
+
+
+}
+
+.lucas img {
+  border-radius: 50%;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+
+
+}
+
+.ste img {
+
+  border-radius: 50%;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+
+
+}
+
+.thami img {
+  border-radius: 50%;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+
+
+}
+
+.vinicius img {
+  border-radius: 50%;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+
+
+}
+
+/*------ culinária italiana-------*/
+.italiana {
+  background-color: #ffffff;
+}
+
+.italiana section {
+  padding: 1em;
+
+}
+
+.italiana article {
+  padding-top: 1em;
+
+}
+
+.italiana section img {
+  border-radius: 50px 10px;
+  margin-bottom: 0.5em;
+  padding-right: -1em;
+}
+
+.italiana p {
+  font-size: 1.2em;
+}
+
+.italiana h1 {
+  font-size: 4em;
+  color: #26753a;
+}
+
+/*-------culinária portuguesa----------*/
+.portuguesa section {
+  padding: 1em;
+
+}
+
+.portuguesa article {
+  padding-top: 1em;
+
+}
+
+.portuguesa p {
+  font-size: 1.2em;
+}
+
+.portuguesa h1 {
+  font-size: 4em;
+  color: #752626;
+  text-align: left;
+}
+
+.portuguesa section img {
+  border-radius: 50px 10px;
+  margin-bottom: 0.5em;
+  padding-right: -1em;
+}
+
+/* vila don patto */
+
+.conteudo {
+  margin-bottom: 48px;
+  border-top: 0.4px solid #FFF2E7;
+}
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.conteudo-principal-titulo {
+  font-weight: 400;
+  font-size: 64px;
+  color: #26753a;
+}
+
+.conteudo-principal-subtitulo {
+  font-weight: 400;
+  font-size: 24px;
+  color: #ECD6C4;
+}
+
+.conteudo-principal-botao {
+  background-color: #ECD6C4;
+  width: 180px;
+  height: 60px;
+  border: none;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-size: 24px;
+  color: #2F2325;
+}
+
+.conteudo-principal-botao:hover {
+  background-color: rgba(236, 214, 196, 0.53);
+}
+
+.conteudo-principal-imagem {
+  height: 430px;
+}

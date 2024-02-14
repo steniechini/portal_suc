@@ -11,40 +11,21 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- BBootstrap Icons via CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
-    <title>Vila Don Patto</title>
+    <title>Culinária Portuguesa</title>
 </head>
 
-<body>
+<body class="portuguesa">
     <?php include("header.php") ?>
-    <main id="main-donpatto">
-        <section>
-            <header class="header-donpatto">
-                <h1 class="titulo-donpatto">Vila Don Patto</h1>
-                <hr/>
-                <h2 class="subtitulo-donpatto">Conheça mais sobre o restaurante Vila Don Patto, localizado na rota do vinho em São Roque.</h2>
-            </header>
-            <aside> <!--aside de imagens-->
-            <figure><img src="img/donpatto1.webp"/></figure>
-            <figure><img src="img/donpatto2.webp"/></figure>
-            <figure><img src="img/donpatto3.webp"/></figure>
-            <figure><img src="img/donpatto4.webp"/></figure>
-            <figure><img src="img/donpatto5.webp"/></figure>
-            <figure><img src="img/donpatto6.webp"/></figure>
-            </aside>
-        </section>
-        <section id="section-button">
-            <button>
-                <img src="img/arrow.webp"/>
-            </button>
-        </section>
-        <section>
-            <header>
-                <span>cardápio</span>
-                <h2>CONHEÇA MAIS SOBRE O VILA DON PATTO</h2>
-                <p>Dê uma olhada nos pratos mais amados!</p>
-            </header>
-        </section>
-    </main>
+    <main class="conteudo">
+    <section class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+        <h1 class="conteudo-principal-titulo">Vila Don Patto</h1>
+        <h2 class="conteudo-principal-subtitulo">Conheça um dos restaurentes mais famosos do Roteiro do Vinho!</h2>
+        <button class="conteudo-principal-botao">Saber mais</button>
+      </div>
+      <img class="conteudo-principal-imagem"src="" alt="imagem de comida">
+    </section>
+  </main>
     <?php include("footer.php") ?>
 </body>
 
