@@ -72,8 +72,8 @@
                 </div>
                 
                     <h2 class="text-center">Lucas Gonçalves</h2>
-                    <h3 class="text-center">RA:</h3>
-                    <p>SR, 20 anos e cheio de conhecimentos inuteis, sabia que existe aranhas veganas? </p>
+                    <h3 class="text-center">RA:2650832223011</h3>
+                    <p>SR, 20 anos e cheio de conhecimentos inuteis. Atualmente aspirante a desenvolvedor</p>
                     
                 
 
