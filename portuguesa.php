@@ -63,7 +63,7 @@
             <div class="col-sm-4 col-12">
                 <section>
                 <img src="img/portuguesa4.webp" class="img-fluid" alt="pasteis de belem">
-                <img src="img/portuguesa3.webp" class="img-fluid" alt="prato de bacalhau tipico de portugal">
+                <img  src="img/portuguesa3.webp" class="img-fluid" alt="prato de bacalhau tipico de portugal">
                 </section>
             </div>
             <div class="col-sm-7 col-12">

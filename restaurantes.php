@@ -80,7 +80,7 @@
                         <section class="sectionrestaurantes">
                         <h2>Quinta do Olivardo</h2>
                         <p>Nasceu como um misto de restaurante e adega em São Roque, cidade próxima à capital conhecida pela produção de vinhos. No menu de linha clássica podem ser apreciados pratos tradicionais portugueses.
-                        <a href='olivardo.php'>Saiba mais...</a>
+                        <a href='quinta.php'>Saiba mais...</a>
                         </p>
                         </section>
                 </div>
@@ -88,7 +88,22 @@
                 
       </div>
 
-
+      <div class="row">
+                    <div class="col-sm-6 col-m-6 col-12">
+                 <section class="sectionrestaurantes">
+                        <h2> Vinicola Goes</h2>
+                        <p>  A maior vincola de São Roque consquistando o publico dominando o mercado de vinhos e licores da regiao ,sendo reconhecida por sua dedicação à produção de vinhos de qualidade ja ganhou diversos premio e recebe milhares de visitantes todos os anos , venha conhecer</p>
+                        <a href='goes.php'>Saiba mais...</a>
+                        </p>
+                    </section>
+                </div>
+                <div class="col-sm-6 col-m-6 col-12">
+                <img class="img-fluid" src="./img/goes/parque.jpg">
+                </div>
+                
+      </div>
+      
+      
     </div>
     
     

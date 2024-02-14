@@ -3,7 +3,7 @@
         <header id="header">
             <nav class="navbar navbar-expand-lg navbar-light ">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index.php">
+                    <a class="navbar-brand" href="a.php">
                         <img src="img/logo.webp" alt="logo com as letras S U C estilizadas" >
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="index.php"><span class="bi bi-house-heart"></span> Home</a>
+                                <a class="nav-link active" aria-current="page" href="a.php"><span class="bi bi-house-heart"></span> Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="restaurantes.php">Restaurantes</a>

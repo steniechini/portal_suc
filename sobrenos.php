@@ -52,9 +52,9 @@
                 </div>
                 
                     <h2 class="text-center">Jennyfer Alvim</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA:2650832223023</h3>
                 
-                <p>Nasci em São Roque em 1999, em transição de carreira, tenho amor incondicional por gatos e animações japonesas dos anos 80. Responsável por testes, Mockup, HTML e CSS das páginas Home e Restaurantes, HTML e CSS da página Contato e edição das imagens dessas páginas feitas no CorelDRAW.</p>
+                <p>Nasci em São Roque em 1999, em transição de carreira, tenho amor incondicional por gatos e animações japonesas dos anos 80. Responsável por testes, Mockup, HTML e CSS das páginas Contato e termos de uso HTML e CSS da página Contato e edição das imagens dessas páginas feitas no CorelDRAW.</p>
 
 
                 </section>
@@ -72,9 +72,9 @@
                 </div>
                 
                     <h2 class="text-center">Lucas Gonçalves</h2>
-                    <h3 class="text-center">RA:</h3>
-                    <p>SR, 20 anos e cheio de conhecimentos inuteis, sabia que existe aranhas veganas? </p>
-                    <p>  Fiz a pagina Vinícola Goes.</p>
+                    <h3 class="text-center">RA:2650832223011</h3>
+                    <p>SR, 20 anos e cheio de conhecimentos inuteis. Atualmente aspirante a desenvolvedor</p>
+                    
                 
 
                 </section>
@@ -87,9 +87,9 @@
                 </div>
                 
                     <h2 class="text-center">Stephanie Chini</h2>
-                    <h3 class="text-center">RA:</h3>
-                    <p> Tenho 27 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
-                     <p>Responsável pelo Mockup,  HTML e CSS das páginas Quinta do Olivardo e Sobre nós. </p>
+                    <h3 class="text-center">RA: 2650832223027</h3>
+                    <p> Tenho 28 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
+                     <p>Responsável pelo Mockup,  HTML e CSS das páginas: Vale do Vinho, Quinta do Olivardo, Home, culinária Italiana, culinária portuguesa, restaurantes e Sobre nós. </p>
                 
 
                 </section>
@@ -106,9 +106,9 @@
                 </div>
                 
                     <h2 class="text-center">Thamiris Nishimori</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA: 2650832223009</h3>
                     <p>Tenho 19 anos já tem muito tempo. Gosto muito de falar, acho graça de tudo e ainda amo a One Direction.</p>
-                     <p>Responsável pelo Mockup, HTML e CSS da página Don Patto e Culinária Portuguesa.. Também responsável pela gerência do grupo.</p>
+                     <p>Responsável pelo Mockup, HTML e CSS da página Don Patto. Também responsável pela gerência do grupo.</p>
                 
 
                 </section>
@@ -121,9 +121,9 @@
                 </div>
                 
                     <h2 class="text-center">Vinicius Bernal</h2>
-                    <h3 class="text-center">RA:</h3>
+                    <h3 class="text-center">RA:2650832223005</h3>
                     <p> Tenho 21 anos, curso Sistemas para Internet. Amo tocar instrumentos musicais e sou apaixonado por motos.</p>
-                        <p> Responsável pelo Mockup, HTML e CSS das páginas Cantina Tia Lina e Culinária Italiana .</p>
+                        <p> Responsável pelo Mockup, HTML e CSS das páginas Cantina Tia Lina  .</p>
                 
 
                 </section>

@@ -1,0 +1,485 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+:root{
+    --bg-color:black;
+    --red-d0:#d00048 ;
+    --h1-and-h3:#4E0D0D;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header-goes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url('../img/goes/teste.jpg');
+    background-position:center;
+    background-size: cover;
+    height:100vh;
+    background-repeat: no-repeat;
+}
+
+.side-img{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 5px 0px;
+    flex-wrap: wrap;
+}
+
+
+
+/* contente */
+
+.contente-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+    gap: 40px;
+    background-image: url('../img/goes/pngtree-doodle-of-an-industrial-factory-vector-png-image_6773803.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+.h3-content{
+    color:#d00048 ;
+    font-family: cursive;
+}
+.h1-content{
+    font-weight: bold;
+}
+.contente{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+.bandi{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 20px;
+
+}
+.hgroup-content{
+    margin-bottom: 100px;
+}
+.img-bandi{
+    border-radius: 50%;
+    width: 100px;
+}
+.h3-bandi{
+    font-family: cursive;
+    font-weight: bold;
+}
+.h3-bandi:hover{
+    color: #d00048;
+    cursor: pointer;
+    /* user-select: none;  */
+}
+.p-bandi{
+    max-width: 900px;
+}
+.button-bandi{
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+
+}
+
+/*safra  */
+
+.safra{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 100px 0px;
+    background-image: url('../img/goes/about.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+}
+
+
+/* sacando */
+
+.sacando{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.article-safra{
+    max-width: 800px;
+}
+
+/* nova-linha */
+.preço{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.aaw{
+    font-size: 4rem;
+    font-family: "Dancing Script", cursive;
+    color:var(--h1-and-h3);
+    font-weight: bold;
+
+}
+.h3-preço{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style:normal;
+    color:var(--h1-and-h3);
+}
+.price{
+    border: 2px solid #45151F ;
+    border-radius: 50px;
+    padding: 7px 16px;
+    color:var(--h1-and-h3);
+    font-weight: bold;
+}
+.nova-linha{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url('../img/goes/manchas-de-aquarela-respingam-salpicos-de-roxo-vermelho-desenhado-a-mao-bolha-abstrata-de-salpicos_753388-954.webp');
+
+   
+}
+.goes-v{
+    width: 500px;
+    transform: rotate(4deg);
+}
+.semantic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.article-d{
+    margin: 20px 40px;
+    max-width: auto;
+    
+}
+.central{
+display:flex;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: flex-start;
+
+}
+@media (max-width: 768px) {
+    .nova-linha {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .nova-linha {
+        flex-direction: column;
+      }
+  }
+.button-img{
+    padding: 20px 30px;
+    background-color: transparent;
+    color:var(--h1-and-h3);
+    border-radius: 50px;
+    font-weight: bold;
+}
+.c{
+    max-width: auto;
+}
+/* gridando */
+
+.gridando{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    margin: 100px 20px;
+}
+
+@media (max-width: 768px) {
+    .gridando {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 576px) {
+    .gridando {
+      grid-template-columns: 1fr;
+    }
+  }
+
+.vinhos{
+    text-align: center;
+    padding-top: 30px;
+  
+}
+
+.h3-indolor{
+    color: #d00048;
+    font-weight: bold;
+}
+i{
+    color: #4D0F0A;
+}
+.h1-princ{
+      font-family: "Cinzel", serif;
+      color: #FAEBD7;
+      font-size: 3rem
+}
+.h5-side-img{
+    font-size: 3rem;
+}
+.span-h5-side-img{
+    font-size: 2rem;
+}
+.figure-class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    background-image: url('../img/goes/philosophia2020.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.div-figure{
+    border: 2px solid black;
+    padding: 90px 90px;
+}
+
+/* side-to-side */
+
+.side-to-side{
+    border-left: 2px solid black;
+    width: 300px;
+  
+}
+.hgroup-side-to-side{
+    position: relative;
+    text-align: center;
+
+    top: 0px;
+    right: 80px;    
+}
+
+.h2-side-to-side{
+    
+    font-size: 1.4rem;
+}
+.h3-side-to-side{
+    font-size: 1rem;
+    margin-left: -20px;
+    
+}
+.span-span{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.feedback{
+    background-color: #F5F5F5;
+  
+    padding-top: 50px;
+    
+}
+.comentario{
+    max-width: 500px;
+    background-color: white;
+    padding: 10px;
+}
+.hgroup-coments{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: column;
+    
+}
+.h1-hgroup{
+    font-size: 1.4rem;
+}
+.h2-hgroup{
+    font-size: 1.2rem;
+    color: red;
+}
+.commentss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+
+}
+.hgroup-coments-2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.h4-hgroup{
+    font-size: 1.4rem;
+    color: red;
+}
+.h5-hgroup{
+    font-size: 2.4rem;
+}
+
+
+/* oferta */
+
+.oferta{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../img/goes/Wine_Black_background_Bottle_Stemware_512316_1920x1080.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+   
+    
+   
+}
+.h1-luxury, .p-oferta ,.p2-oferta{
+    
+    color: white;
+   
+}
+.h1-luxury{
+    margin-left: 20px;
+    color: blanchedalmond;
+}
+.p-oferta{
+    background-color: #45151F;
+}
+.p2-oferta{
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+/* card */
+
+.card{
+    border: 5px solid black;
+    width: 500px;
+}
+.author-date{
+    display: flex;
+    gap: 20px;
+}
+.hora-do-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.titulos{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+hr{
+    margin: 0px;
+}
+
+
+.mural-h1{
+    text-align: center;
+    margin: 40px 0px;
+}
+.mural-de-fotos{
+    margin: 40px 0px;
+}
+
+
+
+
+/* Galeria */
+
+header{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    color: #000;
+}
+.gallery-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2vw;
+    padding: 0 2vw;
+}
+.gallery-items{
+    width: 340px;
+    height: 340px;
+    border: 10px solid #FFF;
+    box-shadow: 5px 5px 5px #0006;
+    flex-grow: 1;
+    transition: transform .1s linear;
+}
+.gallery-items img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery-items:hover{
+    transform: scale(1.1);
+}
+
+
+
+/* Galeria */
+.class-2{
+    background-image: url('../img/goes/Góes_24OUT20-3.jpg');
+}
+.class-3{
+    background-image: url('../img/goes/philosophia85_1920x500_v1.jpg');
+}
+.a-visit-adega{
+    color: white;
+    text-decoration: none;
+}
