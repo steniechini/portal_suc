@@ -336,3 +336,22 @@ body {
         color: #752626;
         text-align: left;
 }
+
+/*vale do  vinho*/
+
+.vale h1 {
+  margin-top: 0.5em;
+  font-size: 3em;
+  color: #752626;
+  text-align: left;
+  margin-bottom: 0.5em;
+}
+.vale p{
+  font-size: 1.3em;
+}
+
+
+.vale section {
+  padding: 1em;
+  
+}

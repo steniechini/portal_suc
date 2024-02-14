@@ -74,7 +74,7 @@
                     <h2 class="text-center">Lucas Gonçalves</h2>
                     <h3 class="text-center">RA:</h3>
                     <p>SR, 20 anos e cheio de conhecimentos inuteis, sabia que existe aranhas veganas? </p>
-                    <p>  Fiz a pagina Vinícola Goes.</p>
+                    
                 
 
                 </section>
@@ -89,7 +89,7 @@
                     <h2 class="text-center">Stephanie Chini</h2>
                     <h3 class="text-center">RA: 2650832223027</h3>
                     <p> Tenho 28 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
-                     <p>Responsável pelo Mockup,  HTML e CSS das páginas: Quinta do Olivardo, Home, culinária Italiana, culinária portuguesa, restaurantes e Sobre nós. </p>
+                     <p>Responsável pelo Mockup,  HTML e CSS das páginas: Vale do Vinho, Quinta do Olivardo, Home, culinária Italiana, culinária portuguesa, restaurantes e Sobre nós. </p>
                 
 
                 </section>
