@@ -180,3 +180,14 @@ i {
     height: 100%; 
     object-fit: cover;
 }
+
+.conteudo-secundario-paragrafo {
+    font-weight: 500;
+    font-size: 18px;
+    width: 800px;
+    letter-spacing: -1px;
+    font-size: 16px;
+    color: #D47825;
+    margin-top: 10px;
+    text-align: center;
+  }

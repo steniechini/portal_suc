@@ -39,6 +39,7 @@
 
         <section class="galeria-de-fotos">
             <h1 class="conteudo-secundario-titulo">Conheça nosso espaço</h1>
+            <p class="conteudo-secundario-paragrafo">Venha nos visitar em São Roque, SP! Localizado na famosa Estrada do Vinho, no quilômetro 2,5, nosso restaurante é o destino perfeito para os amantes da boa comida e da atmosfera acolhedora. Situado no bairro Jardim Villaca, estamos prontos para recebê-lo com os sabores mais deliciosos da região. Não perca a oportunidade de nos encontrar no endereço: Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque - SP, CEP 18145-002. Esperamos por você para uma experiência gastronômica inesquecível!</p>
             <div class="galeria-container">
                 <div class="imagem"><img src="img/donpatto/adega.webp" alt="Foto 1"></div>
                 <div class="imagem"><img src="img/donpatto/guarda-chuvas.jpg" alt="Foto 2"></div>
