@@ -18,7 +18,7 @@ Este é um portal contendo informações dos principais restaurantes do roteiro.
 1. Faça download do Programa "XAMPP" e o instale em seu computador.
 2. Faça download do projeto e descompacte a pasta;
 3. Mova a pasta do projeto dentro da pasta "htdocs" (armazenada na pasta Xampp, localizada no seu disco Local C:);
-4. Abra o Xampp e execute Apache e MYSQL;
+4. Abra o Xampp e execute Apache;
 5. No navegador, coloque o seguinte comando:
 
 
